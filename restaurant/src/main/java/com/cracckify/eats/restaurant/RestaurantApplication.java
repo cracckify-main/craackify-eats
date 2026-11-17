@@ -1,13 +1,13 @@
-package cracckifyeats.restraunt;
+package com.cracckify.eats.restaurant;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestrauntApplication {
+public class RestaurantApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RestrauntApplication.class, args);
+		SpringApplication.run(RestaurantApplication.class, args);
 	}
 
 }

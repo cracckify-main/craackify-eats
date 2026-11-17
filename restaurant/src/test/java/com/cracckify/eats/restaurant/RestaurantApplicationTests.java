@@ -1,10 +1,10 @@
-package cracckifyeats.restraunt;
+package com.cracckify.eats.restaurant;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RestrauntApplicationTests {
+class RestaurantApplicationTests {
 
 	@Test
 	void contextLoads() {
